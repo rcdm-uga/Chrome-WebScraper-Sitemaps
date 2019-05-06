@@ -2,7 +2,7 @@
 
 This is a repository made to store sitemaps for the Chrome Browser that makes webscrapping easier, especially for data thats hidden with javascript on web pages. The plugin takes a string of values called a sitemap which tells the plugin what data to grab and where and how to format it. Since these will be sitemaps all you have to do is feed in the sitemap and pull the data  you want from that site. Just update the URL.
 
-The perfered structure of this repositry, if one wishes to add, will be to store the sitemap in its own directory with a simple README with how the data will look once pulled from the web.
+The preferred structure of this repositry, if one wishes to add, will be to store the sitemap in its own directory with a simple README with how the data will look once pulled from the web.
 
 ### Installation
 You will need to have [Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQiAheXiBRD-ARIsAODSpWOzmLkpF-4dXwZN7xKLbjCymg2NFrwTPbMZSUchNROTjo-ISWqgzYQaAuS-EALw_wcB&gclsrc=aw.ds) downloaded before you can install this plugin.
