@@ -14,3 +14,4 @@ A CSV file that contains these headings
 |                   |     review is         |        |      | of text     |
 ---------------------------------------------------------------------------
 
+For more iformation about the WebScrapper plugin for Chrome, [click here](https://github.com/DigiLabUGA/Chrome-WebScraper-Dump)
