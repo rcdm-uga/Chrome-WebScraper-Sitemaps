@@ -1,5 +1,7 @@
-### What to change
+Grabs the reviews of books and literature from [GoodReads.com](https://www.goodreads.com/)
 
+### What to change
+Once the sitemap is pasted into the Chrome Plugin, replace the 'INSERT_GOODREADS_URL_HERE' string at the begining to whichever good reads text you want. 
 
 ### Output
 
