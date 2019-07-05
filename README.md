@@ -1,6 +1,6 @@
-# Web Scrapper
+# Web Scraper
 
-This is a repository made to store sitemaps for the Chrome Browser that makes webscrapping easier, especially for data thats hidden with javascript on web pages. The plugin takes a string of values called a sitemap which tells the plugin what data to grab and where and how to format it. Since these will be sitemaps all you have to do is feed in the sitemap and pull the data  you want from that site. Just update the URL.
+This is a repository made to store sitemaps for the Chrome Browser that makes webscraping easier, especially for data thats hidden with javascript on web pages. The plugin takes a string of values called a sitemap which tells the plugin what data to grab and where and how to format it. Since these will be sitemaps all you have to do is feed in the sitemap and pull the data  you want from that site. Just update the URL.
 
 The preferred structure of this repositry, if one wishes to add, will be to store the sitemap in its own directory with a simple README with how the data will look once pulled from the web.
 
@@ -17,4 +17,4 @@ So for the GoodReads sitemap, you will have to use the URL of the book youre try
 
 Let the plugin do it’s thing, and you might have to click on the refresh data button once it is done. Then you can export the table as a csv and now you have your data!
 
-### Lets get to webscrapping!!!
+### Lets get to webscraping!!!
