@@ -1,4 +1,4 @@
-Grabs the reviews of well known locations in China from [Mafengwo](http://www.mafengwo.cn/)
+Grabs the reviews of well known locations in China from [Trip Advisor](https://www.tripadvisor.cn)
 
 ### What to change
 Once the sitemap is pasted into the Chrome Plugin, replace the 'INSERT_GOODREADS_URL_HERE' string at the begining to whichever good reads text you want. 
